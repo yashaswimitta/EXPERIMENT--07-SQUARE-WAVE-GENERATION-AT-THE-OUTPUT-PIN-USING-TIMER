@@ -217,7 +217,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
-![7-3](https://github.com/yashaswimitta/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94619247/b81c18cb-8d70-4beb-ac4a-2b26f0694fdf)
+
+![Uploading 7-3.jpg…]()
+
 TON = 2ms TOFF=2ms TOTAL TIME = 4ms FREQUENCY = 1/(TOTAL TIME)=1/4=250Hz
 
 FOR PULSE AT 700
@@ -226,7 +228,7 @@ FOR PULSE AT 700
 TON = 3ms TOFF=1ms TOTAL TIME = 4ms FREQUENCY = 1/(TOTAL TIME)=1/4=250Hz
 
 FOR PULSE AT 900
-![Uploading 7-5.jpg…]()
+1[output](https://github.com/yashaswimitta/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/blob/main/7-5.jpg)
 
 
 TON = 3.5ms TOFF=0.5ms TOTAL TIME =4ms FREQUENCY = 1/(TOTAL TIME)=1/4=250Hz
